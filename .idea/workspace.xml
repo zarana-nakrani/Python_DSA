@@ -4,30 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d83066d-7611-4a6c-a88e-88c5fa549fcd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python_Leetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ceiling_problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclicSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InsertionSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RotatedArrayBinSearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SearchInInfiniteArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Two_Pointers/Q3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Two_Pointers/Q4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Two_Pointers/Remove_duplicates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Two_Pointers/tiktok oa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_in_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sliding_window/Q1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sliding_window/Q2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sliding_window/Q3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sliding_window/Q5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sliding_window/Q6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sliding_window/lc1.py" afterDir="false" />
+    <list default="true" id="7d83066d-7611-4a6c-a88e-88c5fa549fcd" name="Changes" comment="DSA solved questions">
+      <change afterPath="$PROJECT_DIR$/Two_Pointers/Ch1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Two_Pointers/Ch2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Two_Pointers/Q5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Two_Pointers/Q6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Two_Pointers/Q7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Two_Pointers/Q9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Two_Pointers/Triplet_Sum_Zero.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Two_Pointers/Q4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Two_Pointers/Q4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +30,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;zarana-nakrani&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/zarana-nakrani/Python_DSA&quot;,
+    &quot;accountId&quot;: &quot;b85e7889-7add-46c9-9e5b-f8c27a54dc08&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -53,53 +51,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Binary_Search.executor": "Run",
-    "Python.Ceiling_problem.executor": "Run",
-    "Python.CyclicSort.executor": "Debug",
-    "Python.InsertionSort.executor": "Run",
-    "Python.Patterns.executor": "Run",
-    "Python.Q1.executor": "Run",
-    "Python.Q2.executor": "Run",
-    "Python.Q3 (1).executor": "Run",
-    "Python.Q3.executor": "Debug",
-    "Python.Q5.executor": "Run",
-    "Python.Q6.executor": "Run",
-    "Python.Remove_duplicates.executor": "Run",
-    "Python.RotatedArrayBinSearch.executor": "Run",
-    "Python.SearchInInfiniteArray.executor": "Run",
-    "Python.lc1.executor": "Run",
-    "Python.search_in_matrix.executor": "Run",
-    "Python.tiktok oa.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Binary_Search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ceiling_problem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ch1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ch2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CyclicSort.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.InsertionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Patterns.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q3 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q3.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Q4.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Q5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Remove_duplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RotatedArrayBinSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SearchInInfiniteArray.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Triplet_Sum_Zero.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lc1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.search_in_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tiktok oa.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.search_in_matrix">
-    <configuration name="Patterns" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Leetcode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Patterns.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Q3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Python.Ch2">
+    <configuration name="Ch1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Leetcode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Two_Pointers/Q3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Two_Pointers/Ch1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Remove_duplicates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ch2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Leetcode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Two_Pointers/Remove_duplicates.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Two_Pointers/Ch2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,29 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="search_in_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Leetcode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/search_in_matrix.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tiktok oa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Q6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Leetcode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,7 +138,51 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Two_Pointers/tiktok oa.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Two_Pointers/Q6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Q7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Leetcode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Two_Pointers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Two_Pointers/Q7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Q9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Leetcode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Two_Pointers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Two_Pointers/Q9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.search_in_matrix" />
-        <item itemvalue="Python.Patterns" />
-        <item itemvalue="Python.Remove_duplicates" />
-        <item itemvalue="Python.tiktok oa" />
-        <item itemvalue="Python.Q3 (1)" />
+        <item itemvalue="Python.Ch2" />
+        <item itemvalue="Python.Ch1" />
+        <item itemvalue="Python.Q9" />
+        <item itemvalue="Python.Q7" />
+        <item itemvalue="Python.Q6" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +217,31 @@
       <option name="presentableId" value="Default" />
       <updated>1729727405812</updated>
     </task>
+    <task id="LOCAL-00001" summary="DSA solved questions">
+      <option name="closed" value="true" />
+      <created>1744921935101</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744921935101</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DSA solved questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="DSA solved questions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -242,6 +270,45 @@
           <url>file://$PROJECT_DIR$/search_in_matrix.py</url>
           <line>21</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Two_Pointers/Q4.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Two_Pointers/Q4.py</url>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Two_Pointers/Ch2.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Two_Pointers/Ch2.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Two_Pointers/Ch2.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Two_Pointers/Ch2.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Two_Pointers/Ch2.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Two_Pointers/Ch2.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
